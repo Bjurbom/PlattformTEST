@@ -17,6 +17,8 @@ namespace plattformer_test
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        static Gamestate gameState;
+
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
@@ -32,6 +34,10 @@ namespace plattformer_test
         protected override void Initialize()
         {
             // TODO: Add your initialization logic here
+
+            //set the value of gamestate
+            gameState = Gamestate.InGame;
+
 
             base.Initialize();
         }
