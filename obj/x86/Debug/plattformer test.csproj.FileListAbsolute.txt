@@ -1,0 +1,25 @@
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\plattformer test.exe
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\plattformer test.pdb
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.csprojAssemblyReference.cache
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.csproj.CoreCompileInputs.cache
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.csproj.CopyComplete
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.exe
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.pdb
