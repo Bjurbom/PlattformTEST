@@ -7,6 +7,11 @@ namespace plattformer_test
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
+    /// 
+
+    //Gamestate Enum
+    enum Gamestate { InGame, Editing, Menu, Pause }
+
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
