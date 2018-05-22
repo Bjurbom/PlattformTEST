@@ -27,6 +27,10 @@ namespace plattformer_test
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
+
+            //setting value of screen resolutionen
+            graphics.PreferredBackBufferHeight = 900;
+            graphics.PreferredBackBufferWidth = 1600;
         }
 
         /// <summary>
@@ -39,6 +43,7 @@ namespace plattformer_test
         {
             // TODO: Add your initialization logic here
 
+   
            
 
             //set the value of gamestate

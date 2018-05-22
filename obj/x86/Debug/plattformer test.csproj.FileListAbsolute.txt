@@ -28,3 +28,31 @@ C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\De
 C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\MonoGame.Extended.pdb
 C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\Newtonsoft.Json.xml
 C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\plattformer test.exe
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\plattformer test.pdb
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\MonoGame.Extended.pdb
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\obj\x86\Debug\plattformer test.csprojResolveAssemblyReference.cache
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\obj\x86\Debug\plattformer test.csproj.CoreCompileInputs.cache
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\obj\x86\Debug\plattformer test.csproj.CopyComplete
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\obj\x86\Debug\plattformer test.exe
+C:\Users\Tor.bjurbom\Documents\My Games\PlattformTEST\obj\x86\Debug\plattformer test.pdb
