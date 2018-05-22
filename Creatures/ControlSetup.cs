@@ -14,5 +14,13 @@ namespace plattformer_test.Creatures
         public Keys Up;
         public Keys Down;
 
+        public ControlSetup(Keys Left, Keys Right, Keys Up, Keys Down)
+        {
+            this.Left = Left;
+            this.Right = Right;
+            this.Down = Down;
+            this.Up = Up;
+        }
+
     }
 }

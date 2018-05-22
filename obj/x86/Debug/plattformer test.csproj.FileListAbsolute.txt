@@ -23,3 +23,8 @@ C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plat
 C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.csproj.CopyComplete
 C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.exe
 C:\Users\torbj\Source\Repos\plattformer test\plattformer test\obj\x86\Debug\plattformer test.pdb
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\MonoGame.Extended.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\Newtonsoft.Json.dll
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\MonoGame.Extended.pdb
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\Newtonsoft.Json.xml
+C:\Users\torbj\Source\Repos\plattformer test\plattformer test\bin\Windows\x86\Debug\Content\player.xnb

@@ -1,6 +1,8 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using plattformer_test.Creatures;
+using System.Collections.Generic;
 
 namespace plattformer_test
 {
@@ -16,6 +18,8 @@ namespace plattformer_test
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        Texture2D playerSprite;
+        List<Players> playerList;
 
         static Gamestate gameState;
 
@@ -35,9 +39,11 @@ namespace plattformer_test
         {
             // TODO: Add your initialization logic here
 
+           
+
             //set the value of gamestate
             gameState = Gamestate.InGame;
-
+            playerList = new List<Players>();
 
             base.Initialize();
         }
@@ -50,13 +56,11 @@ namespace plattformer_test
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            playerSprite = Content.Load<Texture2D>("player");
 
-            // TODO: use this.Content to load your game content here
+            playerList.Add(new Players(playerSprite, new ControlSetup(Keys.A, Keys.D, Keys.W, Keys.S), new Vector2(0f, 0f)));
         }
 
-        /// <summary>
-        /// UnloadContent will be called once per game and is the place to unload
-        /// game-specific content.
         /// </summary>
         protected override void UnloadContent()
         {
@@ -73,6 +77,10 @@ namespace plattformer_test
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
+            foreach (Players player in playerList)
+            {
+                player.Update(gameTime);
+            }
             // TODO: Add your update logic here
 
             base.Update(gameTime);
@@ -86,6 +94,14 @@ namespace plattformer_test
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
+            spriteBatch.Begin();
+
+            foreach (Players player in playerList)
+            {
+                player.Draw(spriteBatch);
+            }
+
+            spriteBatch.End();
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
