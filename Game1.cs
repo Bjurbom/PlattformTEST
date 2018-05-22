@@ -16,6 +16,7 @@ namespace plattformer_test
 
     public class Game1 : Game
     {
+        Camera cameraPlayer;
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         Texture2D playerSprite;
@@ -43,8 +44,9 @@ namespace plattformer_test
         {
             // TODO: Add your initialization logic here
 
-   
-           
+
+            //Setting up the camera
+            cameraPlayer = new Camera(graphics.GraphicsDevice.Viewport);
 
             //set the value of gamestate
             gameState = Gamestate.InGame;
@@ -82,10 +84,18 @@ namespace plattformer_test
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
-            foreach (Players player in playerList)
+            if (gameState == Gamestate.InGame)
             {
-                player.Update(gameTime);
+                //Players Update
+                foreach (Players player in playerList)
+                {
+                    player.Update(gameTime);
+                    cameraPlayer.Update(player.Position);
+                }
+
             }
+
+           
             // TODO: Add your update logic here
 
             base.Update(gameTime);
@@ -99,8 +109,8 @@ namespace plattformer_test
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-            spriteBatch.Begin();
-
+            spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, null, null, null, null, cameraPlayer.Transform);
+            //players draw
             foreach (Players player in playerList)
             {
                 player.Draw(spriteBatch);

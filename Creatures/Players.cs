@@ -22,11 +22,21 @@ namespace plattformer_test.Creatures
             this.input = input;
             this.position = position;
         }
+        #region properties
+        public Vector2 Position
+        {
+            get
+            {
+                return position;
+            }
+        }
+        #endregion
 
         public void Update(GameTime gameTime)
         {
-            Move();
             Rectangle = new Rectangle((int)position.X, (int)position.Y, 64, 64);
+            Move();
+           
         }
 
         public void Draw(SpriteBatch spriteBatch)
